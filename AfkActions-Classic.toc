@@ -2,7 +2,7 @@
 ## Title: AfkActions
 ## Notes: Customise World of Warcraft's AFK functionality
 ## Author: Ruben Zantingh
-## Version: 0.0.1
+## Version: 0.0.3
 ## SavedVariables: AfkActionsOptions
 
 AfkActions.lua
