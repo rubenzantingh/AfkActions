@@ -1,8 +1,8 @@
-## Interface: 110107
+## Interface: 110200
 ## Title: AfkActions
 ## Notes: Customise World of Warcraft's AFK functionality
 ## Author: Ruben Zantingh
-## Version: 0.0.7
+## Version: 0.0.8
 ## SavedVariables: AfkActionsOptions
 
 AfkActions.lua
